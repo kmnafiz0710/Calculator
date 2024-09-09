@@ -1,7 +1,7 @@
 department="Public Administration"
 print(department)
 print("\n")
-print("\n")
+
 
 name="Khaled Masud"
 district="Barishal"
@@ -9,7 +9,7 @@ phone="019*********"
 print(name,"\n",district,"\n", phone)
 
 print("\n")
-print("\n")
+
 
 
 Course_title="Basic Python"
@@ -33,23 +33,24 @@ print("Course Title:",Course_title,"\nBatch Number:", Batch_Number,"\nRoll Numbe
       Roll_Number,"\nCourse Duration:", Course_duration)
 
 print("\n")
-print("\n")
+
 
 print("Type Check")
 
 print (type(Roll_Number))
 print (type(Course_duration))
 
-print("\n")
+
 print("\n")
 print("Casting")
+
 a=2.5
 b= int(a)
 print (b)
 
 
 print("\n")
-print("\n")
+
 
 #Work
 print("Math")
@@ -65,6 +66,60 @@ print("There Addition is ",addition)
 print("There Subtraction is ",subtraction)
 print("There Multiplication is ",multiplication)
 print("There Division is ",division)
+
+
+# Practise
+print("Home Work 3.1")
+print("\n")
+
+
+Name="Khaled Masud"
+Department="Public Adminustration"
+Batch="Basic Python"
+Sesson= "03"
+Roll="03-003-01"
+print("My name is",Name )
+print("My department is",Department)
+print("My Batch is",Batch )
+print("Session",Sesson )
+print("Roll number",Roll )
+
+print("\n")
+
+
+print("Home Work 3.2")
+print("\n")
+
+Num1=50
+Num2=30
+
+print("There are two numbers", Num1,"and", Num2)
+
+division=Num1/Num2
+multiplication=Num1*Num2
+subtraction=Num1-Num2
+summation=Num1+Num2
+
+print("The summation is",summation)
+print("The subtraction is",subtraction)
+print("The multiplication is",multiplication)
+print("The quotient of two number is",division)
+
+print("\n")
+
+
+print("Extra")
+print("\n")
+
+Product_price=23
+Product_quantity=234
+Total_price=Product_price*Product_quantity
+
+print("There are", Product_quantity, "Products, The price of each product is",Product_price, "tk")
+print("So, total price of these products are",Total_price,"tk.")
+
+print("\n")
+
 
 
 

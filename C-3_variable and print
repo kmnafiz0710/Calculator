@@ -1,0 +1,74 @@
+department="Public Administration"
+print(department)
+print("\n")
+print("\n")
+
+name="Khaled Masud"
+district="Barishal"
+phone="019*********"
+print(name,"\n",district,"\n", phone)
+
+print("\n")
+print("\n")
+
+
+Course_title="Basic Python"
+Batch_Number= 3
+Roll_Number= "03-003-01"
+Course_duration= 60
+
+print(Course_title, Batch_Number, Roll_Number, Course_duration)
+
+print("\n")
+
+
+print("Course Title:", Course_title)
+print("Batch Number:", Batch_Number)
+print("Roll Number:", Roll_Number)
+print("Course Duration:", Course_duration)
+
+# print("Course Title:",Course_title,"\n ","Batch Number:", Batch_Number,"\n ","Roll Number:",
+#       Roll_Number,"\n ","Course Duration:", Course_duration)
+print("Course Title:",Course_title,"\nBatch Number:", Batch_Number,"\nRoll Number:",
+      Roll_Number,"\nCourse Duration:", Course_duration)
+
+print("\n")
+print("\n")
+
+print("Type Check")
+
+print (type(Roll_Number))
+print (type(Course_duration))
+
+print("\n")
+print("\n")
+print("Casting")
+a=2.5
+b= int(a)
+print (b)
+
+
+print("\n")
+print("\n")
+
+#Work
+print("Math")
+num1=2
+num2=3
+addition=num1+num2
+
+subtraction=num1-num2
+multiplication=num1*num2
+division=num1/num2
+
+print("There Addition is ",addition)
+print("There Subtraction is ",subtraction)
+print("There Multiplication is ",multiplication)
+print("There Division is ",division)
+
+
+
+
+
+
+

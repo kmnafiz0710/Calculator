@@ -1,5 +1,3 @@
-
-
 a="Amar sonar bangla, "
 b="   Amar sonar bangla,         "
 c=['Amar','sonar','bangla']
@@ -20,7 +18,7 @@ print(a.count("a")) # word ti kotobar ache seta check kora.
 print("".join(c))  #Joins a list of strings into one string.
 
 
-exercise 8.1
+# exercise 8.1
 
 department=input("Enter your department name ")
 
@@ -37,7 +35,7 @@ while i<len(x):
     i+=1
 
 
-exercise 8.3
+# exercise 8.3
 
 first_name=input("Enter your first name: ")
 last_name=input("Enter your last name: ")

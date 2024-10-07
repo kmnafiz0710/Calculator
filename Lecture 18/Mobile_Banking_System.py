@@ -1,5 +1,4 @@
-
-# Mobile Bankink sysyem like Nagad
+# Mobile Banking system like Nagad
 all_account_numbers = []
 
 # Banking System class
@@ -55,7 +54,6 @@ class BankingSystem:
                   f"Don't share your PIN number with anyone.")
 
 
-# To display the menu and handle user choices
 def show_menu():
     account = None
 

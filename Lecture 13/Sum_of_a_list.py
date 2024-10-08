@@ -7,7 +7,7 @@ def sum_list(numbers):
 
 
 Num_list=list(map(int, input("Enter numbers that you wanna sum: ").split()))
-sum=sum_list(Num_list)
-print(f"The summation of all element of this list is: {sum}")
+Sum=sum_list(Num_list)
+print(f"The summation of all element of this list is: {Sum}")
 
 # Its Final result.

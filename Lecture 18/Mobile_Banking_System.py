@@ -1,12 +1,3 @@
-import mysql.connector
-connection = mysql.connector.connect(
-    host="localhost",
-    user="root",  # Default XAMPP username is 'root'
-    password="",  # Default XAMPP has an empty password
-    database="mobile_banking"
-)
-cursor = connection.cursor()
-
 
 # Mobile Banking system like Nagad
 all_account_numbers = []
